@@ -26,6 +26,7 @@
   line-height: 28px;
   color: var(--color-text);
   margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }
 /* relate to inputs */
 .gpt3__header-content__input input {
